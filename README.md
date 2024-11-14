@@ -1,4 +1,6 @@
-Zore - Virtual Assistant
+ <h1>Zore - Virtual Assistant </h1>
+
+<br><br>
 ![{C9C038AF-265E-4278-986D-2BA6A482FF06}](https://github.com/user-attachments/assets/7fa9c749-8c17-40b7-ada2-6353a525fa9c)
 
 
